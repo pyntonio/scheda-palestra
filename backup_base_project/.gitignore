@@ -1,0 +1,10 @@
+# Ignora le cartelle __pycache__
+__pycache__/
+
+# Ignora i file di ambiente virtuale
+.env/
+venv/
+
+# Ignora altri file di configurazione specifici
+*.log
+*.env
